@@ -4,7 +4,7 @@ version = "0.0.1"
 
 [dependencies]
 base64 = "0.11.0"
-time = "0.1.42"
+time = "0.2.0"
 
 [profile.release]
 lto = true
